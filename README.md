@@ -6,9 +6,7 @@
  <title>Marnellie Pamintuan | Web Developer Portfolio</title>
  <body>
     <div class="container"
-
 </div>
-
 <link rel="stylesheet" type="text/css" href="./index.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
