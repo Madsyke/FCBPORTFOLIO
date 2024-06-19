@@ -1,30 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
- <title>Marnellie Pamintuan | Web Developer Portfolio</title>
- <body>
-    <div class="container"
-
-</div>
-
-<link rel="stylesheet" type="text/css" href="./index.css">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto&display=swap" rel="stylesheet">
-    <style>
-       .center {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 50%; 
-        }
-        p {
-            text-align: center;
-                    }
-    </style>
-</head>
 <body>
     <nav>
         <ul>
@@ -43,6 +16,7 @@
 <p>
 I'd Like to Learn Coding, Programming and Design</b></i>
 <p>
+    <br>
     <h4>OBJECTIVE:</h4>
      As a dedicated student of Public Administration at Camarines Sur Polytechnic Colleges, I am deeply interested in the intricacies of government agencies and organizational behavior. Exploring the effectiveness of familiar networks within government institutions.
 <br><br>
@@ -74,7 +48,6 @@ With a straightforward and concise communication style, I aim to bring clarity a
         </a>
 
     </footer>
-
     <script src="https://kit.fontawesome.com/1e01a58528.js" crossorigin="anonymous"></script>
 </body>
 </html>
