@@ -24,17 +24,16 @@ With a straightforward and concise communication style, I aim to bring clarity a
 </br>
 </p>
 <h4> EDUCATION </h4>
-<ol>
-    <li> Project 1 - My Resume </li>
-    <li> Project 2 - My business Website</li>
-</ol>
+    
 <h4>WORK EXPERIENCE </h4>
+
 <h4> SKILLS </h4>   
+
 <h1><center>My Training Certificates</h1>
         <img src="c1.png" alt="Picture of Marnellie Pamintuan" class="center">
     </header>
     <img src="c2.png" alt="DICT Certificate" class="center"><center></img>
-    <img src="c3.png" alt="DICT Certigicate" class="center"></img>
+    <img src="c3.png" alt="DICT Certificate" class="center"></img>
     <a href="mailto: pamintuanzmarnellie@gmail.com">Let's Work Together</a>
     <footer>
         <a href="https://zuitt.co/?referral=2402-org-ali">
