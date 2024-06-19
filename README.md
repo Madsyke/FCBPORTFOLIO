@@ -6,7 +6,9 @@
  <title>Marnellie Pamintuan | Web Developer Portfolio</title>
  <body>
     <div class="container"
+
 </div>
+
 <link rel="stylesheet" type="text/css" href="./index.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,7 +18,7 @@
             display: block;
             margin-left: auto;
             margin-right: auto;
-            width: 50; 
+            width: 50%; 
         }
         p {
             text-align: center;
@@ -54,11 +56,10 @@ With a straightforward and concise communication style, I aim to bring clarity a
 </ol>
 <h4>WORK EXPERIENCE </h4>
 <h4> SKILLS </h4>   
-
-        <h1><center>My Training Certificates</h1>
+<h1><center>My Training Certificates</h1>
         <img src="c1.png" alt="Picture of Marnellie Pamintuan" class="center">
     </header>
-    <img src="c2.png" alt="DICT Certificate" class="center"></center></img>
+    <img src="c2.png" alt="DICT Certificate" class="center"><center></img>
     <img src="c3.png" alt="DICT Certigicate" class="center"></img>
     <a href="mailto: pamintuanzmarnellie@gmail.com">Let's Work Together</a>
     <footer>
@@ -71,7 +72,7 @@ With a straightforward and concise communication style, I aim to bring clarity a
         <a href="https://www.youtube.com/@ZuittCodingBootcamp" target="blank">
             <i class="fa-brands fa-youtube"></i>
         </a>
-        
+
     </footer>
 
     <script src="https://kit.fontawesome.com/1e01a58528.js" crossorigin="anonymous"></script>
